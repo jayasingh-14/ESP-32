@@ -6,8 +6,9 @@ Here is a sample prototype for demonstration controlling an LED Blink connecting
 
 ## Images
 
-![Circuit](https://github.com/jayasingh-14/ESP-32/assets/99128062/a9719e5c-f732-41d2-8c26-5a56d2588459)
+![Circuit](https://github.com/jayasingh-14/ESP-32/assets/99128062/c381a360-6e8c-421d-b3f4-5c1768c9c14e)
 
 ![esp 32 circuit](https://github.com/jayasingh-14/ESP-32/assets/99128062/088546fd-e1ac-4893-a2a2-f8f1da41c4c7)
 
 ![Screenshot](https://github.com/jayasingh-14/ESP-32/assets/99128062/67913c09-e172-4eb3-ae57-0b50bb1ec456)
+
